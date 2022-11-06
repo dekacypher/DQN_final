@@ -1,0 +1,26 @@
+{
+    "git.ignoreLimitWarning": true,
+    "jupyter.jupyterServerType": "local",
+    "jupyter.kernels.filter": [
+        {
+            "path": "/Users/dekahalane/.local/share/virtualenvs/dekahalane-23H3vpbT/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/Users/dekahalane/.local/share/virtualenvs/Kucoin-ylMVtstu/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/bin/python2.7",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/local/bin/python3.10",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/local/bin/python3",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
